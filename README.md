@@ -1,2 +1,3 @@
 # apnaCollege-demo
-This is my First repository
+This is my First repository...
+Author - Faishal Khan
